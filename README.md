@@ -191,3 +191,6 @@ This repository serves as the official landing page for Exile. The software is d
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Exile today!**
+
+---
+**Last updated:** 2026-11-08 18:10:44 UTC
