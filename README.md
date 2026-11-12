@@ -193,4 +193,4 @@ This repository serves as the official landing page for Exile. The software is d
 **Get the most recent version of Exile today!**
 
 ---
-**Last updated:** 2026-11-12 03:31:45 UTC
+**Last updated:** 2026-11-12 12:01:59 UTC
